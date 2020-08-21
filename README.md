@@ -4,7 +4,7 @@
 
 강좌는 아래의 목차로 이루어져 있습니다.
 ***
-
+</br></br>
 
 ## [기초 강좌 : Basics](./Basics/README.md)
 1. [파이썬 설치](./Basics/01 - 파이썬 설치/README.md)
@@ -16,7 +16,7 @@
 7. [흐름 제어문 2 : for, while 반복문](./Basics/07 - 반복문/README.md)
 8. [함수](./Basics/08 - 함수/README.md)
 ***
-
+</br></br>
 
 ## [프로젝트 01 : 기본기 강좌 복습](./Projects/01_기본기_복습/README.md)
 기본 강좌를 모두 수강했으니, 배운 내용도 복습할 겸 진행하는 프로젝트입니다. 
@@ -25,7 +25,7 @@
 #### [특강 1) 구글링을 습관화하자]()
 #### [특강 2) Stack Overflow]()
 ***
-
+</br></br>
 
 ## [객체지향 패러다임 : Object Oriented Programming](./Advanced_01_OOP/README.md)
 1. 객체지향 프로그래밍은 어떤 패러다임인가? & 지금까지 써오던 방식과 비교해보기
