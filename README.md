@@ -6,14 +6,14 @@
 </br></br>
 
 ## [기초 강좌 : Basics](./Basics/README.md)
-1. [파이썬 설치](./Basics/README.md)
+1. [파이썬 설치](./Basics/01%20-%20파이썬%20설치/README.md)
 2. [변수와 기본 자료형](./Basics/02%20-%20변수와%20기본%20자료형/README.md)
-3. [기본 입출력 함수](./Basics/03 - 기본 입출력 함수/README.md)
-4. [사칙 연산자](./Basics/04 - 연산자/README.md)
-5. [형변환 (Casting) 과 묶음 자료형](./Basics/05 - 형변환과 묶음 자료형/README.md)
-6. [흐름 제어문 1 : if ~ elif ~ else 와 조건문](./Basics/06 - 조건문/README.md)
-7. [흐름 제어문 2 : for, while 반복문](./Basics/07 - 반복문/README.md)
-8. [함수](./Basics/08 - 함수/README.md)
+3. [기본 입출력 함수](./Basics/03%20-%20기본%20입출력%20함수/README.md)
+4. [사칙 연산자](./Basics/04%20-%20연산자/README.md)
+5. [형변환 (Casting) 과 묶음 자료형](./Basics/05%20-%20형변환과%20묶음%20자료형/README.md)
+6. [흐름 제어문 1 : if ~ elif ~ else 와 조건문](./Basics/06%20-%20조건문/README.md)
+7. [흐름 제어문 2 : for, while 반복문](./Basics/07%20-%20반복문/README.md)
+8. [함수](./Basics/08%20-%20함수/README.md)
 </br></br>
 
 ## [프로젝트 01 : 기본기 강좌 복습](./Projects/01_기본기_복습/README.md)
