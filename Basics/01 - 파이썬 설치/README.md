@@ -1,4 +1,6 @@
-# 1강 - 파이썬 설치</br></br>
+# 1강 - 파이썬 설치
+이번 강의에서는 파이썬을 설치하는 방법을 알아보려고 합니다.
+</br></br>
 ## 파이썬을 설치하는 방법
 #### 1. https://www.python.org 에 접속해 Download 탭을 클릭합니다.
 ![screenshot1](pythonorg01.png)</br></br>
