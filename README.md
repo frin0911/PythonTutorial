@@ -6,7 +6,7 @@
 </br></br>
 
 ## [기초 강좌 : Basics](./Basics/README.md)
-[파이썬 설치](./Basics/01 - 파이썬 설치/README.md)
+1. [파이썬 설치](./Basics/01 - 파이썬 설치/README.md)
 2. [변수와 기본 자료형](./Basics/02 - 변수와 기본 자료형/README.md)
 3. [기본 입출력 함수](./Basics/03 - 기본 입출력 함수/README.md)
 4. [사칙 연산자](./Basics/04 - 연산자/README.md)
